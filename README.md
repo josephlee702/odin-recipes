@@ -1,1 +1,1 @@
-This is going to be a practice project for the Odin Project.
+This is a practice project for the Odin Project.
