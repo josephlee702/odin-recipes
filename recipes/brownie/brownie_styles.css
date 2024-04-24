@@ -1,0 +1,11 @@
+* {
+  display: flex;
+  flex-direction: column;
+  outline: red;
+  align-items: center;
+}
+
+.headings {
+  color: green;
+  text-decoration: underline;
+}
